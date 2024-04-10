@@ -8,3 +8,6 @@ def generate_fib(n):
         fib_sequence.append(fib_sequence[-1] + fib_sequence[-2])
     return fib_sequence
 print(generate_fib(12))
+print
+//////////////
+/////////////
